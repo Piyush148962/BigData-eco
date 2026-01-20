@@ -1,0 +1,34 @@
+body {
+    background-color: #f5f7fb;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #eaeaea;
+    font-weight: 600;
+}
+
+.stat-card {
+    text-align: center;
+    padding: 15px;
+}
+
+.card-value {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0d6efd;
+    margin: 10px 0;
+}
+
+.card-title {
+    color: #6c757d;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
